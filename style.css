@@ -1,0 +1,27 @@
+
+.draggable {
+  width: 100px;
+  height: 100px;
+  padding: 0.5em;
+  border: 1px solid black;
+}
+
+
+#draggableBoxes {
+  background: #0DC0D9;
+}
+
+
+#tabs {
+  background: #53B84A;
+}
+
+
+#accordion {
+  background: red;
+}
+
+.parallax-window {
+    min-height: 200px;
+    background: transparent;
+}
